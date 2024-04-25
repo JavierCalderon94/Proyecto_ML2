@@ -1,0 +1,9 @@
+streamlit
+PIL 
+pandas
+numpy
+matplotlib.pyplot
+data_processing_app
+sklearn
+xgboost
+pickle
